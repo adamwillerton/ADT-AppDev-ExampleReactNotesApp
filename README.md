@@ -10,7 +10,7 @@ It is a simple notes app with CRUD operations.  All data is stored in the browse
    
    o  Branch: `main`
    
-   o	Root Directory: `apps/js`
+   o	Root Directory: `notes-app`
    
    o	Build Command: `npm install && npm run build`
    
